@@ -8,6 +8,6 @@ citEntry(
   url = "https://github.com/inbo/testzenodojson",
   abstract = "Dummy package to test Zenodo.json with a MIT license.",
   textVersion = "Van Calster, Hans (2022) testzenodojson: Title. Version 0.0.0. https://github.com/inbo/testzenodojson",
-  keywords = "R package",
+  keywords = "R package, zenodo",
 )
 # end checklist entry

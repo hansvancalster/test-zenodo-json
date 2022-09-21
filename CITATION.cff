@@ -17,4 +17,6 @@ license: MIT + file LICENSE
 type: software
 repository-code: https://github.com/inbo/testzenodojson
 identifiers: []
-keywords: R package
+keywords:
+- R package
+- zenodo

@@ -20,7 +20,9 @@ required:
 - lintr
 - repository secret
 - spelling
-keywords: R package
+keywords:
+- R package
+- zenodo
 spelling:
   default: en-GB
   ignore:
