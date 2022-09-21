@@ -5,9 +5,9 @@ citEntry(
   title = "testzenodojson: Title. Version 0.0.0",
   author = c(person(given = "Hans", family = "Van Calster")),
   year = 2022,
-  url = "https://github.com/inbo/testzenodojson",
+  url = "https://github.com/hansvancalster/testzenodojson",
   abstract = "Dummy package to test Zenodo.json with a MIT license.",
-  textVersion = "Van Calster, Hans (2022) testzenodojson: Title. Version 0.0.0. https://github.com/inbo/testzenodojson",
+  textVersion = "Van Calster, Hans (2022) testzenodojson: Title. Version 0.0.0. https://github.com/hansvancalster/testzenodojson",
   keywords = "R package, zenodo",
 )
 # end checklist entry

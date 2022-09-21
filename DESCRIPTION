@@ -9,8 +9,8 @@ Authors@R: c(
   )
 Description: Dummy package to test Zenodo.json with a MIT license.
 License: MIT + file LICENSE
-URL: https://github.com/inbo/testzenodojson
-BugReports: https://github.com/inbo/testzenodojson/issues
+URL: https://github.com/hansvancalster/testzenodojson
+BugReports: https://github.com/hansvancalster/testzenodojson/issues
 Encoding: UTF-8
 Language: en-GB
 Roxygen: list(markdown = TRUE)

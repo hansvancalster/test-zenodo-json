@@ -15,7 +15,7 @@ version: 0.0.0
 abstract: Dummy package to test Zenodo.json with a MIT license.
 license: MIT + file LICENSE
 type: software
-repository-code: https://github.com/inbo/testzenodojson
+repository-code: https://github.com/hansvancalster/testzenodojson
 identifiers: []
 keywords:
 - R package
