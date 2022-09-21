@@ -12,7 +12,7 @@ contact:
   name: Research Institute for Nature and Forest
 title: 'testzenodojson: Title'
 version: 0.0.0
-abstract: description
+abstract: Dummy package to test Zenodo.json with a MIT license.
 license: MIT + file LICENSE
 type: software
 repository-code: https://github.com/inbo/testzenodojson

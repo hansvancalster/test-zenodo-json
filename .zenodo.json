@@ -1,7 +1,7 @@
 {
   "title": "testzenodojson: Title",
   "version": "0.0.0",
-  "description": "description",
+  "description": "Dummy package to test Zenodo.json with a MIT license.",
   "creators": [
     {
       "name": "Van Calster, Hans",

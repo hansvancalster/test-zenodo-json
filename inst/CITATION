@@ -6,7 +6,7 @@ citEntry(
   author = c(person(given = "Hans", family = "Van Calster")),
   year = 2022,
   url = "https://github.com/inbo/testzenodojson",
-  abstract = "description",
+  abstract = "Dummy package to test Zenodo.json with a MIT license.",
   textVersion = "Van Calster, Hans (2022) testzenodojson: Title. Version 0.0.0. https://github.com/inbo/testzenodojson",
   keywords = "R package",
 )
